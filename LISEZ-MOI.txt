@@ -1,0 +1,3 @@
+Guide interactif F.A.T MILSIM avec logo du serveur.
+Importez index.html et le dossier images/ à la racine du dépôt GitHub Pages.
+Gardez les noms des fichiers d'images tels quels.
